@@ -1,0 +1,188 @@
+body{
+    background-color: black;
+}
+.whiteBox{
+    background-color: white;
+    height: 103px;
+    width: 771px;
+    margin-top: 116px;
+    padding-top: 5.5px;
+    padding-bottom: 5.5px;
+    padding-left: 168px;
+    padding-right: 168px;
+}
+.whiteBoxBirthday{
+    background-color: white;
+    height: 66px;
+    width: 139px;
+    margin-top: 0px;
+    margin-left: 52px;
+    font-family: 'Istok Web', sans-serif;
+    padding: 10px 10px 10px 10px;
+    
+}
+.blackBoxBirthday{
+    position: absolute;
+    background-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+    outline-color: white;
+    height: 66px;
+    width: 139px;
+    margin-top: -46px;
+    margin-left: 170px;
+    font-family: 'Istok Web', sans-serif;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+.whiteBoxHeight{
+    background-color: white;
+    height: 66px;
+    width: 114px;
+    margin-top: 0px;
+    margin-left: 52px;
+}
+.blackBoxHeight{
+    position: absolute;
+    background-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+    outline-color: white;
+    height: 66px;
+    width: 139px;
+    margin-top: -45px;
+    margin-left: 145px;
+    font-family: 'Istok Web', sans-serif;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+.height{
+    height: 46px;
+    width: 94px;
+    font-family: 'Istok Web', sans-serif;
+    padding: 10px 10px 10px 10px;
+}
+.birthday{
+    height: 46px;
+    width: 119px;
+    font-family: 'Istok Web', sans-serif;
+    padding: 10px 10px 10px 10px;
+}
+.headerNameIchigo{
+    font-family: 'Istok Web', sans-serif;
+    font-size: 60px;
+    width: 435px;
+    height: 92px;
+}
+.headerNameInterest{
+    font-family: 'Istok Web', sans-serif;
+    font-size: 60px;
+    width: 220px;
+    height: 92px;
+}
+.headerNameAccomplishment{
+    font-family: 'Istok Web', sans-serif;
+    font-size: 60px;
+    width: 220px;
+    height: 92px;
+}
+.aboutMe{
+    font-family: 'Istok Web', sans-serif;
+    font-size: 32px;
+    height: 438px;
+    width: 719px;
+    margin-left: 52px;
+    margin-top: 47px;
+    color: white;
+}
+.imageIchigo{
+    position: absolute;
+    width: 577px;
+    height: 908px;
+    margin-left: 863px;
+    margin-top: -718px;
+}
+.navbarBackground{
+    background-color: #2D2D2D;
+    margin-top: -0.6%;
+    margin-bottom: -0.6%;
+}
+
+.navbarText{
+    color: #ffffff;
+    margin-left: 44px;
+    margin-right: 44px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Inter', sans-serif;
+}
+
+.image-container{
+    position: relative;
+    width: 1440px;
+}
+.gradienttext{
+    background-image: linear-gradient(#FCE8FC,#A6061E);
+    -webkit-background-clip: text;
+    color:transparent
+}
+.buttonText{
+    position: absolute;
+    height: 94px;
+    width: 436px;
+    left: 771px;
+    top: 202px;
+    font-size: 50px;
+    font-weight: 900px;
+    font-family: 'Inter', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+.button{
+    position: absolute;
+    top: 296px; /* adjust the top position of the button */
+    left: 901px; /* adjust the left position of the button */
+    background-color: #4B0000; /* set your desired background color */
+    color: #fff; /* set your desired text color */
+    border: none; /* remove button border */
+    padding: 10px 20px; /* set your desired padding */
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: 24;
+
+}
+.list{
+    color: white;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 36px;
+    line-height: 60px;
+    margin-top: 53px;
+    margin-left: 46px;
+}
+
+.image3Ichigo{
+    position: absolute;
+    width: 603px;
+    height: 333px;
+    margin-left: 863px;
+    margin-top: -403px;
+
+}
+
+.listAcc{
+    color: white;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 36px;
+    margin-top: 53px;
+    margin-left: 46px;
+}
+
+.imageSoulPass{
+    position: absolute;
+    width: 603px;
+    height: 333px;
+    margin-left: 863px;
+    margin-top: -585px;
+
+}
