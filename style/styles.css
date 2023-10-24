@@ -1,7 +1,8 @@
-body{
+body {
     background-color: black;
 }
-.whiteBox{
+
+.whiteBox {
     background-color: white;
     height: 103px;
     width: 771px;
@@ -11,7 +12,8 @@ body{
     padding-left: 168px;
     padding-right: 168px;
 }
-.whiteBoxBirthday{
+
+.whiteBoxBirthday {
     background-color: white;
     height: 66px;
     width: 139px;
@@ -19,13 +21,15 @@ body{
     margin-left: 52px;
     font-family: 'Istok Web', sans-serif;
     padding: 10px 10px 10px 10px;
-    
+
 }
-.navColorTog{
-    outline:auto;
+
+.navColorTog {
+    outline: auto;
     border-color: white;
 }
-.blackBoxBirthday{
+
+.blackBoxBirthday {
     position: absolute;
     background-color: black;
     outline-style: solid;
@@ -39,14 +43,16 @@ body{
     padding: 10px 10px 10px 10px;
     color: white;
 }
-.whiteBoxHeight{
+
+.whiteBoxHeight {
     background-color: white;
     height: 66px;
     width: 114px;
     margin-top: 0px;
     margin-left: 52px;
 }
-.blackBoxHeight{
+
+.blackBoxHeight {
     position: absolute;
     background-color: black;
     outline-style: solid;
@@ -60,38 +66,44 @@ body{
     padding: 10px 10px 10px 10px;
     color: white;
 }
-.height{
+
+.height {
     height: 46px;
     width: 94px;
     font-family: 'Istok Web', sans-serif;
     padding: 10px 10px 10px 10px;
 }
-.birthday{
+
+.birthday {
     height: 46px;
     width: 119px;
     font-family: 'Istok Web', sans-serif;
     padding: 10px 10px 10px 10px;
 }
-.headerNameIchigo{
+
+.headerNameIchigo {
     font-family: 'Istok Web', sans-serif;
     font-size: 60px;
     width: 435px;
     height: 92px;
 }
-.headerNameInterest{
+
+.headerNameInterest {
     font-family: 'Istok Web', sans-serif;
     font-size: 60px;
     width: 220px;
     height: 92px;
     padding-left: 130px;
 }
-.headerNameAccomplishment{
+
+.headerNameAccomplishment {
     font-family: 'Istok Web', sans-serif;
     font-size: 60px;
     width: 220px;
     height: 92px;
 }
-.aboutMe{
+
+.aboutMe {
     font-family: 'Istok Web', sans-serif;
     font-size: 32px;
     height: 438px;
@@ -100,21 +112,23 @@ body{
     margin-top: 47px;
     color: white;
 }
-.imageIchigo{
+
+.imageIchigo {
     position: absolute;
     width: 577px;
     height: 908px;
     margin-left: 863px;
     margin-top: -710px;
 }
-.navbarBackground{
+
+.navbarBackground {
     background-color: #2D2D2D;
     margin-top: -1%;
     margin-bottom: -1%;
     z-index: 1;
 }
 
-.navbarText{
+.navbarText {
     color: #ffffff;
     margin-left: 44px;
     margin-right: 44px;
@@ -123,18 +137,21 @@ body{
     font-family: 'Inter', sans-serif;
 }
 
-.image-container{
+.image-container {
     max-width: 100%;
 }
-#myImage{
+
+#myImage {
     max-width: 100%;
 }
-.gradienttext{
-    background-image: linear-gradient(#FCE8FC,#A6061E);
+
+.gradienttext {
+    background-image: linear-gradient(#FCE8FC, #A6061E);
     -webkit-background-clip: text;
-    color:transparent
+    color: transparent
 }
-.buttonText{
+
+.buttonText {
     position: absolute;
     height: 94px;
     width: 436px;
@@ -147,7 +164,8 @@ body{
     -webkit-text-stroke-color: black;
 
 }
-.button{
+
+.button {
     position: absolute;
     top: 28.9%;
     left: 62.43%;
@@ -160,7 +178,8 @@ body{
     font-size: 24px;
 
 }
-.list{
+
+.list {
     color: white;
     font-family: 'Istok Web', sans-serif;
     font-size: 36px;
@@ -169,7 +188,7 @@ body{
     margin-left: 46px;
 }
 
-.image3Ichigo{
+.image3Ichigo {
     position: absolute;
     width: 603px;
     height: 333px;
@@ -178,7 +197,7 @@ body{
 
 }
 
-.listAcc{
+.listAcc {
     color: white;
     font-family: 'Istok Web', sans-serif;
     font-size: 36px;
@@ -186,7 +205,7 @@ body{
     margin-left: 46px;
 }
 
-.imageSoulPass{
+.imageSoulPass {
     position: absolute;
     width: 603px;
     height: 333px;
