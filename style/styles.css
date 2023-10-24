@@ -21,6 +21,10 @@ body{
     padding: 10px 10px 10px 10px;
     
 }
+.navColorTog{
+    outline:auto;
+    border-color: white;
+}
 .blackBoxBirthday{
     position: absolute;
     background-color: black;
@@ -79,6 +83,7 @@ body{
     font-size: 60px;
     width: 220px;
     height: 92px;
+    padding-left: 130px;
 }
 .headerNameAccomplishment{
     font-family: 'Istok Web', sans-serif;
@@ -100,12 +105,12 @@ body{
     width: 577px;
     height: 908px;
     margin-left: 863px;
-    margin-top: -718px;
+    margin-top: -710px;
 }
 .navbarBackground{
     background-color: #2D2D2D;
-    margin-top: -0.6%;
-    margin-bottom: -0.6%;
+    margin-top: -0.7%;
+    margin-bottom: -0.7%;
 }
 
 .navbarText{
@@ -118,8 +123,10 @@ body{
 }
 
 .image-container{
-    position: relative;
-    width: 1440px;
+    max-width: 100%;
+}
+#myImage{
+    max-width: 100%;
 }
 .gradienttext{
     background-image: linear-gradient(#FCE8FC,#A6061E);
@@ -130,8 +137,8 @@ body{
     position: absolute;
     height: 94px;
     width: 436px;
-    left: 771px;
-    top: 202px;
+    left: 53.55%;
+    top: 19.73%;
     font-size: 50px;
     font-weight: 900px;
     font-family: 'Inter', sans-serif;
@@ -141,15 +148,15 @@ body{
 }
 .button{
     position: absolute;
-    top: 296px; /* adjust the top position of the button */
-    left: 901px; /* adjust the left position of the button */
-    background-color: #4B0000; /* set your desired background color */
-    color: #fff; /* set your desired text color */
-    border: none; /* remove button border */
-    padding: 10px 20px; /* set your desired padding */
+    top: 28.9%;
+    left: 62.43%;
+    background-color: #4B0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
     font-family: 'Inter', sans-serif;
     font-weight: bolder;
-    font-size: 24;
+    font-size: 24px;
 
 }
 .list{
